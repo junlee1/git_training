@@ -1,3 +1,9 @@
-Hi! I'm Bobbbyy. I've been here for a while now.
+Hi! I'm Bobbyy. I've been here for a while now.
+<<<<<<< head
+Hi! I'm Bobby. I've been here for a while now.
+=======
+Hi! I'm Bobby. I've been here for a while now.
+>>>>>>> bobby's-branch
+
 new line for Bobbbyy. Bobbby got a third line.
 Bob has been here for a while. 
